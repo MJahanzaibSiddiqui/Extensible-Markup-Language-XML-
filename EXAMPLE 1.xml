@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+   <book category="cooking">
+     <title lang="en"> Elementary Linear ALgebra</title>
+     <author>Howard Anton</author>
+     <year>2009</year>
+     <price>30.00</price>
+   </book>
+   <book category="cooking">  
+     <title lang="en"> Engineering Mathematics</title>
+     <author>Erwin Kreyzig</author>
+     <year>2008</year>
+     <price>20.00</price>
+   </book>
+   <book category="Electrical">  
+     <title lang="en"> Circuit Analysis</title>
+     <author>Thomas L. Floydd</author>
+     <year>2004</year>
+     <price>31.05</price>
+    </book>
+</bookstore>
