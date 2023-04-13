@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?> 
+<!-- "while working on internal side we need to write yes on standalone, otherwise on external side we need to write no" -->
+<!DOCTYPE student [
+ <!ELEMENT student (name,dob,bloodgroup,rollnumber)>
+ <!ELEMENT name (#PCDATA)>
+ <!ELEMENT dob (#PCDATA)>   
+  <!-- parceable data= pc (The tags which are defined below in main code should be defined here) -->
+ <!ELEMENT bloodgroup (#PCDATA)>
+ <!ELEMENT rollnumber (#PCDATA)>
+]>
+
+ <student>
+        <name>James</name>
+        <dob> 26 sep, 1999</dob>
+          <!-- dob= date of birth -->
+        <bloodgroup> B+ Positive</bloodgroup>
+        <rollnumber>19</rollnumber>
+</student>        
