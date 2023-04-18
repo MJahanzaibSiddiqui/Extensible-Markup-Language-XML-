@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cdcatalog.xsl"?>
+<catalog>
+  <cd>
+      <title>empire burlesque</title>
+      <artist>bob dylan</artist>
+      <country>USA</country>
+      <company>columbia</company>
+      <price>20.009</price>
+      <year>1999</year>
+  </cd>
+
+   <cd>
+      <title>Software house</title>
+      <artist>Faisal</artist>
+      <country>England</country>
+      <company>xovotech</company>
+      <price>22.567</price>
+      <year>1909</year>
+  </cd>
+
+   <cd>
+      <title>Faarzi</title>
+      <artist>Sundeep</artist>
+      <country>Canada</country>
+      <company>Novatech</company>
+      <price>21.44</price>
+      <year>1998</year>
+  </cd>    
+</catalog>
