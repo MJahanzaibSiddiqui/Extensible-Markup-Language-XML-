@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?> 
+<student>
+    <roll>006</roll>
+    <name>Jahanzaib</name>
+    <dept>Computer engineering</dept>
+    <avg>68.12</avg>
+    <dob>9-8-2004</dob>
+    <time>03:22:01</time>
+    <mobile no ="03174737916"/>
+</student>    
