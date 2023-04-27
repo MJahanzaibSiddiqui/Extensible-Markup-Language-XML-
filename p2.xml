@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="test/css" href="align.css" ?>
+<cars>
+<vehicle>
+<manufacture>BMW</manufacture>
+<model>m3</model>
+<color>metallic silver</color>
+<price>40,00000</price>
+<location>liverpool</location>
+</vehicle>
+<vehicle>
+<manufacture>toyota</manufacture>
+<model>innova</model>
+<color>metallic silver</color>
+<price>3800000</price>
+<location>california</location>
+</vehicle>
+</cars>

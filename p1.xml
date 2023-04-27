@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns:book="http://www.aptechworldwide.com">
+<book:booklist>
+<book:title book:type="fiction">evening in paris</book:title>
+<book:price>$123</book:price>
+</book:booklist>
+</catalog>

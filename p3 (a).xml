@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="p3(b).xsl"?>
+<catalog>
+<book>
+<title>xml by example</title>
+<author> david blake</author>
+<price>20.90</price>
+<year>1990</year>
+</book>
+<book>
+<title>xml bible i.i</title>
+<author> david troff</author>
+<price>59</price>
+<year>2004</year>
+</book>
+<book>
+<title>xml cookbook</title>
+<author> susan jones</author>
+<price>11.10</price>
+<year>1995</year>
+</book>
+<book>
+<title>xml complete reference</title>
+<author> andrew nel</author>
+<price>193</price>
+<year>2001</year>
+</book>
+</catalog>
